@@ -1,0 +1,32 @@
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\obj\Debug\NPU_ProfessionalNet.csprojResolveAssemblyReference.cache
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU_ProfessionalNet.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU_ProfessionalNet.pdb
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessEntity.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessLogic.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.DataAccess.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.Unity.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessEntity.pdb
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessLogic.pdb
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.DataAccess.pdb
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\obj\Debug\NPU_ProfessionalNet.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU_ProfessionalNet\obj\Debug\NPU_ProfessionalNet.pdb
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU_ProfessionalNet.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU_ProfessionalNet.pdb
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessEntity.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessLogic.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.DataAccess.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.ServiceLocation.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.Unity.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\Microsoft.Practices.Unity.Interception.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessEntity.pdb
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.BusinessLogic.pdb
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\bin\NPU.DataAccess.pdb
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\obj\Debug\NPU_ProfessionalNet.csprojResolveAssemblyReference.cache
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\obj\Debug\NPU_ProfessionalNet.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU_ProfessionalNet\obj\Debug\NPU_ProfessionalNet.pdb

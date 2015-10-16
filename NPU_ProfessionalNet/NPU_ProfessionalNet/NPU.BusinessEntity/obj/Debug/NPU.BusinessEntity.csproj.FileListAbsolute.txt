@@ -1,0 +1,8 @@
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU.BusinessEntity\bin\Debug\NPU.BusinessEntity.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU.BusinessEntity\bin\Debug\NPU.BusinessEntity.pdb
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU.BusinessEntity\obj\Debug\NPU.BusinessEntity.dll
+C:\Users\Poonam\documents\visual studio 2010\Projects\NPU_ProfessionalNet\NPU.BusinessEntity\obj\Debug\NPU.BusinessEntity.pdb
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU.BusinessEntity\bin\Debug\NPU.BusinessEntity.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU.BusinessEntity\bin\Debug\NPU.BusinessEntity.pdb
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU.BusinessEntity\obj\Debug\NPU.BusinessEntity.dll
+C:\NPU\Database\Project\NPU_ProfessionalNet\NPU_ProfessionalNet\NPU.BusinessEntity\obj\Debug\NPU.BusinessEntity.pdb
